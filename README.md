@@ -1,5 +1,11 @@
 # Git and github laboratory
 
-Git practice laboratory
+## Description.
+
+Git practice laboratory, testing the different types of headers.
+
+## Contents.
 
 Kevin Esquivel
+
+## References.
