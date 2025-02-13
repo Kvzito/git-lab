@@ -8,12 +8,12 @@ Git practice laboratory, testing the different types of headers.
 
 ### Images.
 
-/assets/images/mcLA.png
+/main/assets/images/mcLA.png
 
 ## References.
 
-[GitHub documentation](https://docs.github.com/en)
-[GitHub glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+[GitHub documentation](https://docs.github.com/en)\
+[GitHub glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)\
 [Git documentation](https://git-scm.com/doc)
 
 
