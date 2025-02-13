@@ -8,7 +8,10 @@ Git practice laboratory, testing the different types of headers.
 
 ### Images.
 
-/main/assets/images/mcLA.png
+![image of midnight club LA videogame](https://github.com/kvzito/git-lab/blob/main/mcLA.png?raw=true)
+
+> [!NOTE]
+> This is an image of the racing videogame "Midnight Club: Los Angeles", big part of my infance.
 
 ## References.
 
