@@ -6,12 +6,25 @@ Git practice laboratory, testing the different types of headers.
 
 ## Contents.
 
+### Code examples.
+
+```python
+a = 5
+b = 5
+sum = a + b
+print(sum)
+```
+
 ### Images.
 
 ![image of midnight club LA videogame](https://github.com/kvzito/git-lab/blob/main/mcLA.png?raw=true)
 
 > [!NOTE]
 > This is an image of the racing videogame "Midnight Club: Los Angeles", big part of my infance.
+
+### Lists.
+
+
 
 ## References.
 
