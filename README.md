@@ -24,7 +24,9 @@ print(sum)
 
 ### Lists.
 
-
+- [x] Turn on GitHub pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ## References.
 
